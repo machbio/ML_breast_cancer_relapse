@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+GSE2034/**
+GSE2990/**
+testdata_gcrma.txt
+trainset_gcrma.txt
+testdata_clindetails.txt
+trainset_clindetails.txt
+RF_model
+NE_model
+*.pdf
+*.txt
+*.Rproj
